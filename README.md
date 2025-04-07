@@ -9,14 +9,14 @@
 
 ### 🔧 Current Projects:
 - 🔥 **Remote Developer Job Tracker** – [in progress]
-- 📺 [Prime.tv](https://github.com/sahilmor/Prime.tv) – Streaming platform UI  
-- 👕 [WearWise](https://github.com/sahilmor/WearWise) – AI-based fashion recommendation  
-- 🔗 [CraftChainAi](https://github.com/sahilmor/CraftChainAi) – Blockchain supply chain platform  
-- 🏛️ [NHCC Website](https://github.com/sahilmor/NHCC-Website)
+- 📺 [Prime.tv](https://prime-tv-two.vercel.app/) – Streaming platform UI  
+- 🔗 [CraftChainAi](https://chain-craft-ai-frontend.vercel.app/) – Blockchain supply chain platform  
+- 🏛️ [NHCC Website](https://nhccworld.com/) - Freelance construction company website
 
 ---
 
 ### 🏆 Achievements:
+- 2nd Runner up in **Code-A-Haunt** @ LPU
 - Top 20 in **Code for Bharat** @ Microsoft  
 - CTO at Society Website | Intern @ Geeta Technical Hub  
 - 3-month Internship @ Naai  
@@ -25,5 +25,5 @@
 
 ### 📫 Let’s Connect!
 - 🌐 [LinkedIn](https://www.linkedin.com/in/sahilmor/)
-- 🖥️ [Portfolio Website](#) *(Coming soon!)*
+- 🖥️ [Portfolio Website](https://sahilmor-portfolio.vercel.app/)
 - 📧 mor.sahil05.28@gmail.com
