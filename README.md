@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Sahil Mor**
 
 **Full Stack Developer** passionate about building scalable web applications and intuitive user experiences.  
-Currently pursuing **B.Tech in Computer Science & Engineering** at **Geeta University (2022–2026)**, actively learning and building meaningful projects every day. 🌱  [GitHub](https://github.com/sahilmor)
+Currently pursuing **B.Tech in Computer Science & Engineering** at **Geeta University (2022–2026)**, actively learning and building meaningful projects every day. 🌱 [GitHub](https://github.com/sahilmor)
 
 ---
 
@@ -10,13 +10,13 @@ Currently pursuing **B.Tech in Computer Science & Engineering** at **Geeta Unive
 - 🔭 I’m currently working on web applications with **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**.  
 - 💻 I love creating products that solve real-world problems and craft smooth user journeys.  
 - 🌍 Based in **Gohana, Haryana, India**.  
-- 📫 Reach me at: **mor.sahil05.28@gmail.com** | [GitHub](https://github.com/sahilmor)
+- 📫 Reach me at: **mor.sahil05.28@gmail.com**
 
 ---
 
 ## 🛠 Tech Stack
 
-**Languages**
+**Languages:**
 C/C++, Java, Python
 
 **Frontend:**  
@@ -29,7 +29,7 @@ Node.js, Express
 MongoDB, Supabase
 
 **Tools:**  
-Git, GitHub, Vercel, Postman 🔧
+Git, GitHub, Vercel, Postman
 
 ---
 
