@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Sahil Mor**
 
 **Full Stack Developer** passionate about building scalable web applications and intuitive user experiences.  
-Currently pursuing **B.Tech in Computer Science & Engineering** at **Geeta University (2022–2026)**, actively learning and building meaningful projects every day. 🌱  [oai_citation:1‡GitHub](https://github.com/sahilmor)
+Currently pursuing **B.Tech in Computer Science & Engineering** at **Geeta University (2022–2026)**, actively learning and building meaningful projects every day. 🌱  [‡GitHub](https://github.com/sahilmor)
 
 ---
 
