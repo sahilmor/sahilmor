@@ -10,7 +10,7 @@ Currently pursuing **B.Tech in Computer Science & Engineering** at **Geeta Unive
 - 🔭 I’m currently working on web applications with **Next.js**, **React**, **TypeScript**, and **Tailwind CSS**.  
 - 💻 I love creating products that solve real-world problems and craft smooth user journeys.  
 - 🌍 Based in **Gohana, Haryana, India**.  
-- 📫 Reach me at: **mor.sahil05.28@gmail.com**  [GitHub](https://github.com/sahilmor)
+- 📫 Reach me at: **mor.sahil05.28@gmail.com** | [GitHub](https://github.com/sahilmor)
 
 ---
 
@@ -29,20 +29,20 @@ Node.js, Express
 MongoDB, Supabase
 
 **Tools:**  
-Git, GitHub, Vercel, Postman 🔧  [GitHub](https://github.com/sahilmor)
+Git, GitHub, Vercel, Postman 🔧
 
 ---
 
 ## 📁 Current Projects
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| **Test Explorer** | 📌 A SAAS Product for student and school to prepare for competitive exams – work in progress | Next.js, TypeScript | [View Here](https://testexplorer.in) | [Github](https://github.com/sahil1048/test-explorer)
-| **Trello Lite** | 📺 A Collaborative Kanabn Board | Next.js, Typescript | [View Here](https://trellolite.vercel.app) | [Github](https://github.com/sahil1048/trellolite)
-| **NomadX** | 🧠 An AI Driven Travel Planner App | Next.js, Typescript | [View Here](https://x-nomad.vercel.app) | [Github](https://github.com/sahilmor/NomadX)
-| **Prime.tv** | 🏗 An Movie streaming Platform | React.js, API |  [View Here](https://prime-tv-two.vercel.app) | [Github](https://github.com/sahil1048/Prime.tv)
+| Project | Description | Tech | Demo | Github |
+|---------|-------------|------|------|--------|
+| **Test Explorer** | 📌 A SAAS Product for student and school to prepare for competitive exams – work in progress | Next.js, TypeScript | [View Here](https://testexplorer.in) | [Github](https://github.com/sahil1048/test-explorer) |
+| **Trello Lite** | 📺 A Collaborative Kanabn Board | Next.js, Typescript | [View Here](https://trellolite.vercel.app) | [Github](https://github.com/sahil1048/trellolite) |
+| **NomadX** | 🧠 An AI Driven Travel Planner App | Next.js, Typescript | [View Here](https://x-nomad.vercel.app) | [Github](https://github.com/sahilmor/NomadX) |
+| **Prime.tv** | 🏗 An Movie streaming Platform | React.js, API |  [View Here](https://prime-tv-two.vercel.app) | [Github](https://github.com/sahil1048/Prime.tv) |
 
-🔗 Visit portfolio: https://sahilmor.vercel.app  |  [GitHub](https://github.com/sahilmor)
+🔗 Visit portfolio: https://sahilmor.vercel.app
 
 ---
 
@@ -58,7 +58,7 @@ Git, GitHub, Vercel, Postman 🔧  [GitHub](https://github.com/sahilmor)
 ## 📫 Let’s Connect
 
 📍 **LinkedIn:** https://www.linkedin.com/in/sahilmor/  
-🌐 **Portfolio:** https://sahilmor.vercel.app
+🌐 **Portfolio:** https://sahilmor.vercel.app/
 📧 **Email:** mor.sahil05.28@gmail.com  
 🐦 **X (Twitter):** @sahilmor05
 
