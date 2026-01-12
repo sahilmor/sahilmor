@@ -16,7 +16,7 @@ Currently pursuing **B.Tech in Computer Science & Engineering** at **Geeta Unive
 
 ## 🛠 Tech Stack
 
-**Languages:**
+**Languages:**  
 C/C++, Java, Python
 
 **Frontend:**  
@@ -58,9 +58,9 @@ Git, GitHub, Vercel, Postman
 ## 📫 Let’s Connect
 
 📍 **LinkedIn:** https://www.linkedin.com/in/sahilmor/  
-🌐 **Portfolio:** https://sahilmor.vercel.app/
+🌐 **Portfolio:** https://sahilmor.vercel.app  
 📧 **Email:** mor.sahil05.28@gmail.com  
-🐦 **X (Twitter):** @sahilmor05
+🐦 **X (Twitter):** https://x.com/sahilmor05
 
 ---
 
