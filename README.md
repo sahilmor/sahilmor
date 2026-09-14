@@ -36,7 +36,8 @@ Git, GitHub, Vercel, Postman, Docker, Stripe, Socket.io
 ## 📁 Current Projects
 
 | Project | Description | Tech | Demo | Github |
-|---------|-------------|------|------|--------|| **Zenith** | 🗂️ A production-grade Project Management SaaS (Turborepo monorepo) — real-time boards, JWT auth, Stripe billing | Next.js, Express, Socket.io, MongoDB | [View Here](https://zenithtasks.space) | [Github](https://github.com/sahilmor/zenith) |
+|---------|-------------|------|------|--------|
+| **Zenith** | 🗂️ A production-grade Project Management SaaS (Turborepo monorepo) — real-time boards, JWT auth, Stripe billing | Next.js, Express, Socket.io, MongoDB | [View Here](https://zenithtasks.space) | [Github](https://github.com/sahilmor/zenith) |
 | **Test Explorer** | 📌 A SAAS Product for student and school to prepare for competitive exams – work in progress | Next.js, TypeScript | [View Here](https://testexplorer.in) | [Github](https://github.com/sahil1048/test-explorer) |
 | **Trello Lite** | 📺 A Collaborative Kanabn Board | Next.js, Typescript | [View Here](https://trellolite.vercel.app) | [Github](https://github.com/sahil1048/trellolite) |
 | **NomadX** | 🧠 An AI Driven Travel Planner App | Next.js, Typescript | [View Here](https://x-nomad.vercel.app) | [Github](https://github.com/sahilmor/NomadX) |
